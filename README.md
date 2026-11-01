@@ -49,7 +49,7 @@ The intended usage is to run the program to retreive assignments due today, with
 
 ### Eisenhower Matrix
 
-![Eisenhower matrix](docs/eisenhower-matrix.png)
+![Eisenhower matrix](docs/eisenhower-matrix.pdf)
 
 ## Author
 
