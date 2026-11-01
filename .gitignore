@@ -217,4 +217,26 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.tom
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Browser authentication
+.playwright/
+browser-profile/
+auth/
+*.cookies
+*.cookies.json
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated data
+assignments.json
+
+# macOS
+.DS_Store
